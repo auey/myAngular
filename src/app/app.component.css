@@ -1,0 +1,24 @@
+body{
+    font-family: "courier";
+    font-size:26;
+}
+a:hover {
+    color: #FF6699;
+    font-family: "courier"
+}
+a:link{
+    color: black;
+    font-family: "courier"
+}
+a:visited{
+    color: black;
+    font-family: "courier"
+}
+a:active{
+    color: #00CED1;
+    font-family: "courier"
+}
+h1{
+    color: black;
+    font-family: "courier"
+}
